@@ -7,7 +7,7 @@
 
 - 👨‍💻 My name is **Ahmed M.** "OSINT bro" sometimes i call myself **brokendelta**
 
-- 🌱 I’m currently learning **web dev && offensive security**
+- 🌱 I’m currently learning **web develeoper && offensive security**
 
 - 💬 Ask me about **Nothing**
 
