@@ -1,6 +1,6 @@
-<h2><img src="https://user-images.githubusercontent.com/106396603/226635983-f5a44f24-cfcc-40c3-85f5-6c727df0f230.gif" width="29"> Hello friend</h2>
+<h1><img src="https://user-images.githubusercontent.com/106396603/226635983-f5a44f24-cfcc-40c3-85f5-6c727df0f230.gif" width="40">  Hello Friend !</h1>
 
-# $ whoami
+## $ whoami
 
 
 - 👨‍💻 My name is **Ahmed M.** "OSINT bro" sometimes i call myself **brokendelta**
