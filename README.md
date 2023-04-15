@@ -13,15 +13,18 @@
 
 - ⚡ Fun fact **Im learning offensive security just for enjoy with exploit**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunt3r0x&label=Profile%20views&color=0e75b6&style=flat" alt="hunt3r0x" /> </p>
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/71ntr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="71ntr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/71ntr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="71ntr" height="30" width="40" /></a>
 <a href="https://medium.com/@h1nt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@h1nt3r" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-<img src="https://user-images.githubusercontent.com/106396603/226645370-2569b179-43f9-4a80-8660-8bbff247465b.jpg">
+<img src="https://user-images.githubusercontent.com/106396603/226645370-2569b179-43f9-4a80-8660-8bbff247465b.jpg" width="700">
                                                                 
                  
