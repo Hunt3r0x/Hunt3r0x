@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Im learning offensive security just for enjoy with exploit**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunt3r0x&label=Profile%20views&color=0e75b6&style=flat" alt="hunt3r0x" /> </p>
 
-## Connect with me:
+## Connect with me "OSINT gift":
 
 <p align="left">
 <a href="https://twitter.com/71ntr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="71ntr" height="30" width="40" /></a>
